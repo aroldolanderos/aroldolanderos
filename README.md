@@ -1,10 +1,9 @@
-### Hola! - Soy Aroldo Landeros 👋
+### 👋 Hola! - Soy Aroldo Landeros
 
-## Soy desarrollador de software 🧑🏻‍💻
+## Soy desarrollador de software 🧑🏻‍💻🍺⚙️
 
-- 🌎 Actualmente trabajo en [Gobierno Digital](https://digital.gob.cl/)
 - 👨‍👨‍👧‍👧 Soy parte del equipo encargado de mantener y desarrollar la plataforma 
-[SIMPLE](https://digital.gob.cl/servicios/plataformas-compartidas/simple)
+[SIMPLE](https://digital.gob.cl/servicios/plataformas-compartidas/simple) en [Gobierno Digital](https://digital.gob.cl/)
 - 🎸 🎶 Me gustar tocar mi guitarra imaginando que canto bonito
 
 ### Puedes contactame en:
