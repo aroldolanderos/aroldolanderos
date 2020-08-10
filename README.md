@@ -7,7 +7,9 @@
 - 🎸 🎶 Me gustar tocar mi guitarra imaginando que canto bonito
 
 ### Puedes contactame en:
-...
+- [Linkedin](https://www.linkedin.com/in/aroldo-landeros-aravena/)
+- [Instagram](https://www.instagram.com/aroldolanderos/)
+- [Twiter](https://twitter.com/aroldolanderos)
 <br />
 
 ### Languajes:
